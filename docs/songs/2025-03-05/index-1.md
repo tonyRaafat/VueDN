@@ -1,7 +1,7 @@
 ---
 lastUpdated: true
-contributors: true
-externalLinkIcon: false
+contributors: false
+externalLinkIcon: true
 date: 2025-03-05
 ---
 # tony
